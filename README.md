@@ -68,9 +68,3 @@ The main concept behind this project is IoT-based wireless home automation using
 - "Turn off the light"
 - "Switch on bedroom light"
 - "Switch off appliances"
-
----
-
-## Author
-
-Developed by Harshal Pawar
