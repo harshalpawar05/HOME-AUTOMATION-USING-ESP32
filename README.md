@@ -46,9 +46,6 @@ The main concept behind this project is IoT-based wireless home automation using
 - Arduino IDE
 - Google Assistant
 - IoT
-- HTML
-- CSS
-- JavaScript
 
 ---
 
@@ -71,16 +68,6 @@ The main concept behind this project is IoT-based wireless home automation using
 
 ---
 
-## Future Improvements
-
-- Mobile application integration
-- Energy monitoring system
-- Sensor-based automation
-- Alexa support
-- Firebase cloud connectivity
-
----
-
 ## Author
 
-Developed by Your Name
+Developed by Harshal Pawar
