@@ -18,7 +18,9 @@ The main concept behind this project is IoT-based wireless home automation using
 ---
 
 ## Circuit Diagram
-Circuit_diagram.jpg
+<p align="center">
+  <img src="Circuit_diagram" width="400">
+</p>
 
 ---
 
